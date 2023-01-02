@@ -1,0 +1,32 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=1.01, width=device-width, minimal-ui=1">
+    <title>Jewel Monkey Creative</title>
+	<script src="cordova.js"></script>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/game.css">
+    <style>
+        html,body,#game{
+            margin:0 !important;
+            border: solid black 1px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="wrongRotation">
+        <img src="assets/img/rotate_screen.png" alt="" />
+    </div>
+
+    <div id="game">
+        <script src="lib/phaser.js"></script>
+        <script src="game.js"></script>
+        <script src="hooks.js"></script>
+    </div>
+
+    <div class="font_preload" style="opacity: 0">
+        <span style="font-family: 'gameFont', Arial, sans-serif;"></span>
+    </div>
+</body>
+</html>

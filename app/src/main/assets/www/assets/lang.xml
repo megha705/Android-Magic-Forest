@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stringresources>
+    <languages>
+        <language>en</language>
+        <language>fr</language>
+        <language>de</language>
+        <language>es</language>
+        <language>it</language>
+        <language>br</language>
+    </languages>
+<strings>
+    <string id="1">
+        <en>en</en>
+        <fr>fr</fr>
+        <de>de</de>
+        <es>es</es>
+        <it>it</it>
+        <br>br</br>
+    </string>
+
+    <string id="INFINITY_TITLE">
+        <en>INFINITY</en>
+        <fr>Infini</fr>
+        <de>Unendlichkeit</de>
+        <es>Infinito</es>
+        <it>Infinita</it>
+        <br>Infinito</br>
+    </string>
+
+    <string id="INFINITY_INFO">
+        <en>Unlimited play, no moves, no time limit.</en>
+        <fr>Jeu illimité, aucune limite de coup ni de temps.</fr>
+        <de>Unlimitiertes Spiel, keine Moves, kein Zeitlimit.</de>
+        <es>Juego ilimitado, sin límite de movimientos ni de tiempo.</es>
+        <it>Partita senza fine, nessuna mossa, nessun limite di tempo.</it>
+        <br>Jogo ilimitado, sem movimentos, sem limite de tempo.</br>
+    </string>
+
+    <string id="ACTION_TITLE">
+        <en>ACTION</en>
+        <fr>Action</fr>
+        <de>Action</de>
+        <es>Acción</es>
+        <it>Azione</it>
+        <br>Ação</br>
+    </string>
+
+    <string id="ACTION_INFO">
+        <en>More matches, more time.</en>
+        <fr>Plus de combinaisons, plus de temps.</fr>
+        <de>Mehr Zuordnungen, mehr Zeit.</de>
+        <es>Más combinaciones y más tiempo.</es>
+        <it>Più decorazioni unisci, più tempo avrai.</it>
+        <br>Mais correspondências, mais tempo.</br>
+    </string>
+
+    <string id="ESCAPE_TITLE">
+        <en>ESCAPE</en>
+        <fr>Fuite</fr>
+        <de>Flucht</de>
+        <es>Huida</es>
+        <it>Fuga</it>
+        <br>Escapar</br>
+    </string>
+
+    <string id="ESCAPE_INFO">
+        <en>Explode the escaping ones.</en>
+        <fr>Éclatez les éléments qui s'échappent.</fr>
+        <de>Lass die Flüchtenden explodieren.</de>
+        <es>Haz explotar a los que huyan.</es>
+        <it>Fai esplodere le decorazioni in fuga.</it>
+        <br>Explodir os que escapam.</br>
+    </string>
+
+    <string id="DOWNFALL_TITLE">
+        <en>DOWNFALL</en>
+        <fr>Chute</fr>
+        <de>Niedergang</de>
+        <es>Caída</es>
+        <it>Caduta</it>
+        <br>Queda</br>
+    </string>
+
+    <string id="DOWNFALL_INFO">
+        <en>Get the stars from top to the bottom.</en>
+        <fr>Récupérez les étoiles de haut en bas.</fr>
+        <de>Hole die Sterne von oben nach unten.</de>
+        <es>Consigue llevar las estrellas de arriba a abajo.</es>
+        <it>Porta le stelle dall'alto in basso.</it>
+        <br>Pegue as estrelas de cima para baixo.</br>
+    </string>
+
+    <string id="BLOCKER_TITLE">
+        <en>BLOCKER</en>
+        <fr>Bloqueur</fr>
+        <de>Blocker</de>
+        <es>Bloques</es>
+        <it>Ostruzionista</it>
+        <br>Bloqueador</br>
+    </string>
+
+    <string id="BLOCKER_INFO">
+        <en>Destroy all blocks on the board.</en>
+        <fr>Détruisez tous les blocs du plateau.</fr>
+        <de>Zerstöre alle Blöcke auf dem Brett.</de>
+        <es>Destruye todos los bloques del tablero.</es>
+        <it>Distruggi tutti i blocchi nello schema.</it>
+        <br>Destrói todos os blocos no quadro.</br>
+    </string>
+
+    <string id="highsc">
+        <en>HIGHSCORE</en>
+        <fr>Meilleur score</fr>
+        <de>Highscore</de>
+        <es>Récord</es>
+        <it>Record</it>
+        <br>Pontuação alta</br>
+    </string>
+
+    <string id="30">
+        <en>CONTINUE</en>
+        <es>CONTINUAR</es>
+        <de>WEITER</de>
+        <it>CONTINUA</it>
+        <fr>CONTINUER</fr>
+        <br>CONTINUAR</br>
+    </string>
+
+    <string id="31">
+        <en>NEW GAME</en>
+        <es>NUEVA PARTIDA</es>
+        <de>NEUES SPIEL</de>
+        <it>Nuovo gioco</it>
+        <fr>NOUVELLE PARTIE</fr>
+        <br>NOVO JOGO</br>
+    </string>
+
+    <string id="32">
+        <en>NEXT LEVEL</en>
+        <es>Siguiente\nnivel</es>
+        <de>Nächste Level</de>
+        <it>Prossimo\nlivello</it>
+        <fr>niveau suivant</fr>
+        <br>Próximo nível</br>
+    </string>
+
+    <string id="33">
+        <en>COMPLETED</en>
+        <es>TERMINADO</es>
+        <de>BEENDET</de>
+        <it>completato</it>
+        <fr>terminé</fr>
+        <br>concluído</br>
+    </string>
+
+    <string id="SCORE">
+        <en>score</en>
+        <de>punktzahl</de>
+        <fr>score</fr>
+        <es>puntuación</es>
+        <it>score</it>
+        <br>pontuação</br>
+    </string>
+
+    <string id="10">
+        <en>GAME OVER</en>
+        <fr>Game over</fr>
+        <de>Spiele Ende</de>
+        <es>Fin de juego</es>
+        <it>Fine del gioco</it>
+        <br>FIM DE JOGO</br>
+    </string>
+
+    <string id="TIMESUP">
+        <en>TIME'S UP</en>
+        <es>EL TIEMPO HA EXPIRADO</es>
+        <de>DIE ZEIT IST ABGELAUFEN</de>
+        <it>Tempo scaduto</it>
+        <fr>Temps écoulé</fr>
+        <br>Acabou o tempo</br>
+    </string>
+
+    <string id="LEVEL">
+        <en>Level</en>
+        <fr>Niveau</fr>
+        <de>Stufe</de>
+        <es>Nivel</es>
+        <it>Livello</it>
+        <br>Nível</br>
+    </string>
+    <string id="INSTRUCTIONS_TEXT">
+        <en>\n\n\n\n\nMatch any 3 decorations in a line to pop them. Line up 4 or more of the same decorations and create ‘explosive jewel’ decorations. Match them or try to combine them to create even bigger blasts! The more decorations you pop, the more points you score! Can you match more to create a chain reaction?\n\nHave fun in various game modes:\nInfinity: Unlimited play, no moves, no time limit.\nAction: More matches, more time.\nEscape: Explode the escaping ones.\nDownfall: Get the stars from top to the bottom.\nBlocker: Destroy all blocks on the board.</en>
+        <de>\n\n\n\n\nOrdne 3 Dekorationen in einer Linie einander zu, um sie platzen zu lassen. Bei 4 oder mehr Dekorationen werden „Weihnachtsexplosion“- Dekorationen erschaffen. Ordne sie zu oder kombiniere sie, um noch größere Explosionen zu erstellen! Je mehr Dekorationen platzen, desto mehr Punkte erhältst du! Kannst du mehr zuordnen, um eine Kettenreaktion zu erschaffen?\n\nHabe Spaß in verschiedenen Spiel-Modi:\nUnendlichkeit: Unlimitiertes Spiel, keine Moves, kein Zeitlimit.\nAction: Mehr Zuordnungen, mehr Zeit.\nFlucht: Lass die Flüchtenden explodieren.\nNiedergang: Hole die Sterne von oben nach unten.\nBlocker: Zerstöre alle Blöcke auf dem Brett.</de>
+        <fr>\n\n\n\n\nAssociez 3 décorations sur une ligne pour les faire exploser. Alignez 4 décorations ou plus identiques et créez des décorations « jewel explosif ». Associez-les ou essayez de les combiner pour créer des explosions encore plus grosses ! Plus vous faites exploser de décorations, plus vous marquez de points ! Pouvez-vous associer plus d'éléments pour créer une réaction en chaîne ?\n\nAmusez-vous dans les différents modes de jeu :\nInfini : jeu illimité, aucune limite de coup ni de temps.\nAction : plus de combinaisons, plus de temps.\nFuite : éclatez les éléments qui s'échappent.\nChute : récupérez les étoiles de haut en bas.\nBloqueur : détruisez tous les blocs du plateau.</fr>
+        <es>\n\n\n\n\nCombina 3 adornos en una línea para que exploten. Combina 4 o más objetos iguales y crea adornos explosivos de Navidad. ¡Intenta combinarlos para lograr explosiones mayores! Cuantos más adornos hagas explotar, ¡más puntos obtendrás! ¿Podrás combinar más y crear una reacción en cadena?\n\nDisfruta de varios modos de juego:\nInfinito: Juego ilimitado, sin límite de movimientos ni de tiempo.\nAcción: Más combinaciones y más tiempo.\nHuida: Haz explotar a los que huyan.\nCaída: Consigue llevar las estrellas de arriba a abajo.\nBloques: Destruye todos los bloques del tablero.</es>
+        <it>\n\n\n\n\nUnisci 3 decorazioni su una fila per farle scoppiare. Allinea 4 o più decorazioni dello stesso colore per creare decorazioni "Esplosione natalizia". Uniscile o prova a combinarle per creare esplosioni ancora più grandi! Più decorazioni fai scoppiare, più punti ottieni! Riesci a unirne di più per creare una reazione a catena?\n\nDivertiti in varie modalità di gioco:\nInfinita: partita senza fine, nessuna mossa, nessun limite di tempo.\nAzione: più decorazioni unisci, più tempo avrai.\nFuga: fai esplodere le decorazioni in fuga.\nCaduta: porta le stelle dall'alto in basso.\nOstruzionista: distruggi tutti i blocchi nello schema.</it>
+        <br>\n\n\n\n\nCorresponda 3 enfeites em uma linha para explodi-los. Alinhe 4 ou mais enfeites do mesmo tipo e crie enfeites “Explosão de Natal.” Corresponda ou tente combiná-los para criar explosões ainda maiores. Quanto mais enfeites você estourar, mais pontos vai ganhar. Você consegue pegar mais para criar uma reação em cadeia?\n\nDivirta-se em vários modos de jogo:\n\nInfinito: Jogo ilimitado, sem movimentos, sem limite de tempo.\nAção: Mais correspondências, mais tempo.\nEscapar: Explodir os que escapam.\nQueda: Pegue as estrelas de cima para baixo.\nBloqueador: Destrói todos os blocos no quadro.</br>
+    </string>
+    <string id="26">
+        <en>Tap to continue</en>
+        <fr>Touchez pour continuer</fr>
+        <de>Zum Fortfahren berühren</de>
+        <es>Toca para continuar</es>
+        <it>Tocca per continuare</it>
+        <br>Toque para continuar</br>
+    </string>
+
+</strings>
+</stringresources>
